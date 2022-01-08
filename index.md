@@ -7,7 +7,7 @@ output:
        in_header: homepage.html
 ---
 
-Working on personal branding in the Metaverse and DAO tooling. Testing 123 New Site : ). 
+Working on personal branding in the Metaverse and DAO tooling.
 
 Previously, I did some work in healthcare, both [public health](https://flatten.ca) and [machine learning for health (domain generalization)](https://shreyj.com/publications).
 
