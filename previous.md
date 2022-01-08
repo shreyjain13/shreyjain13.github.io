@@ -3,8 +3,4 @@ layout: default
 title: "previous"
 ---
 
-{% if site.show_excerpts %}
-  {% include home.html %}
-{% else %}
-  {% include archive.html title="Posts" %}
-{% endif %}
+I used to do this and this. 
