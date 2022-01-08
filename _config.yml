@@ -18,8 +18,6 @@ show_sidebar: false        # show a sidebar instead of the usual header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md"}
   - {file: "blog.md"}
-  - {file: "pubs.md"}
-  - {file: bookshelf.md}
   - {file: "previous.md"}
   
 
