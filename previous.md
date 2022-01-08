@@ -60,7 +60,7 @@ Luo M., Newman S., Amat M., Charpignon M., Durale E., **Jain S.,** Kaufman A., K
 
 # Fellowships and Communities
 
-* Bored Ape Yacht Club (and many other NFT communities)
+* Bored Ape Yacht Club (and many other NFT + DAO + DefIcommunities)
 
 * University of Toronto Entrepreneurship Startup Incubator
 
@@ -68,4 +68,4 @@ Luo M., Newman S., Amat M., Charpignon M., Durale E., **Jain S.,** Kaufman A., K
 
 * [SHAD](https://www.shad.ca/): University of Saskatchewan Campus
 
-* [QuarterZero](https://www.quarterzero.com/): You can find my team's demo day presentation in NYC [here.](https://www.youtube.com/watch?v=5VRro6DHmd8)
+* [QuarterZero](https://www.quarterzero.com/). 
