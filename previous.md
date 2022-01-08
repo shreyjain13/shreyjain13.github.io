@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Previous Work"
+title: "previous"
 ---
 
 # Work Experience
