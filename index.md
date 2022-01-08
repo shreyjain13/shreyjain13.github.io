@@ -1,10 +1,6 @@
 ---
 layout: page
 title: ""
-output: 
-  html_document:
-    includes:
-       in_header: homepage.html
 ---
 
 Working on personal branding in the Metaverse and DAO tooling.
