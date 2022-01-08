@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-Contributing to the Metaverse. 
+**Contributing to the Metaverse.**
 
 Previously, I built products for [public health teams](https://flatten.ca) during the COVID-19 pandemic and did research in [machine learning for health](https://shreyj.com/previous).
 
