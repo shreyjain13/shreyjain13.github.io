@@ -5,8 +5,8 @@ title: ""
 
 Contributing to the Metaverse. 
 
-Previously, I did some work in healthcare, both [public health](https://flatten.ca) and [machine learning for health (domain generalization)](https://shreyj.com/publications).
+Previously, I built products for [public health](https://flatten.ca) during the COVID-19 pandemic and did research in [machine learning for health](https://shreyj.com/previous).
 
-I used to be a triathlete qualifying for three World Championships for Team Canada Triathlon for my age group and have a history of high performing sports. I now get enjoyment from my individual quantified self health explorations but still love to cycle and play pick up basketball.
+For fun, I am currently playing around with generative models to create digital art and music (because I can't sing or draw I let computers help). I used to be a triathlete qualifying for three World Championships for Team Canada Triathlon and love to race. Always up for a game of pickup basketball too : )
 
-Currently enrolled at the University of Toronto studying Engineering Science with a major in machine learning (graduating 2023 spring).
+Currently enrolled at the University of Toronto studying Engineering Science with a major in machine learning (graduating 2023 spring). 
