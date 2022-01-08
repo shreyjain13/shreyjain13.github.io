@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-Working on building the Metaverse.
+Contributing to the Metaverse. 
 
 Previously, I did some work in healthcare, both [public health](https://flatten.ca) and [machine learning for health (domain generalization)](https://shreyj.com/publications).
 
