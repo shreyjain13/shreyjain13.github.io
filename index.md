@@ -3,8 +3,10 @@ layout: page
 title: ""
 ---
 
-I'm an assistant professor in the [Linguistics Department](https://www.ling.upenn.edu) at the University of Pennsylvania and the director of the [Child Language Lab](http://childlanglab.com/). 
+Working on personal branding in the Metaverse and DAO tooling. Test. 
 
-I teach graduate seminars in [psycholinguistics](/ling607) and [neurolinguistics](/neurolinguistics) and an undergraduate course in [language and the brain](/ling104). Occasionally, I also teach [LING 1](/ling001), Penn's Introduction to Linguistics.
+Previously, I did some work in healthcare, both [public health](https://flatten.ca) and [machine learning for health (domain generalization)](https://shreyj.com/publications).
 
-This semester I'm teaching a new undergraduate course (with Colin Twomey): [Data Science for Studying Language and the Mind](/ling172).
+I used to be a triathlete qualifying for three World Championships for Team Canada Triathlon for my age group and have a history of high performing sports. I now get enjoyment from my individual quantified self health explorations but still love to cycle and play pick up basketball.
+
+Currently enrolled at the University of Toronto studying Engineering Science with a major in machine learning (graduating 2023 spring).
