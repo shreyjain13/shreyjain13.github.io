@@ -1,5 +1,5 @@
 ---
-title:  "How to analyze data with the jupyter/datascience-notebook"
+title:  "DAOs"
 mathjax: true
 author: katie
 category: jupyter
