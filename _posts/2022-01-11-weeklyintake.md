@@ -28,9 +28,7 @@ Here is a filtered list of content I listen to every week. Anything in addition 
 
 ### General Twitter Hygiene
 
-Create twitter lists and use Tweetdeck to view these lists. 
-
-Here is a screenshot of my Tweetdeck. 
+Create twitter lists (like seen below) and use Tweetdeck to view these lists. 
 
 <p align="center">
   <img src="/assets/tweetdeck.png" width="500" height="400">
