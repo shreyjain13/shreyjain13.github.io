@@ -33,5 +33,5 @@ Create twitter lists and use Tweetdeck to view these lists.
 Here is a screenshot of my Tweetdeck. 
 
 <p align="center">
-  <img src="/assets/tweetdeck.png" width="200" height="200">
+  <img src="/assets/tweetdeck.png" width="500" height="400">
 </p>
