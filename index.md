@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-**I find early stage Web3 teams top technical and community talent. Email or DM me on Twitter if your team is hiring right now or if you are looking for a job.**
+**Currently thinking a lot about on-chain identities and decentralized science funding models**
 
 Previously, I built products for [public health teams](https://flatten.ca) during the COVID-19 pandemic, did research in [machine learning for health](https://shreyj.com/previous), and built [consumer](https://account.microsoft.com/family/about) products at Microsoft. A more detailed list of my experience can be found [here](https://shreyj.com/previous/).
 
