@@ -16,6 +16,7 @@ title: "previous"
 - MIT COVID-19 Datathon Organizer
 - Web3 Intro Course University of Toronto
 - Twitter writings (@shreyjaineth)
+- [Zero Knowledge Soulbound Tokens](https://github.com/enricobottazzi/ZK-SBT)
 
 # Publications
 
