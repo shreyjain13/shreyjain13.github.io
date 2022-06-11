@@ -14,7 +14,8 @@ title: "previous"
 
 - Canada Advanced Research Projects Agency Proposal 
 - MIT COVID-19 Datathon Organizer
-- Self-Driving Go-Kart: Modified Go Kart to be drive-by-wire through a RC car radio tranceiver. Designed and manufactured compound gearbox using bicycle sprocke. Developed self driving car system using YOLO algorithm in Python and OpenCV as shown with this test footage [here](https://www.youtube.com/watch?v=EaUuswyAPh8). This project was done with two other friends.
+- Web3 Intro Course University of Toronto
+- Twitter writings (@shreyjaineth)
 
 # Publications
 
