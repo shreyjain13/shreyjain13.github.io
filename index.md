@@ -3,10 +3,7 @@ layout: page
 title: ""
 ---
 
-**My research focus is currently centered around decentralized identity and society.** Currently based out of Seattle. 
+I am a Web3 researcher at Microsoft. Shrey's research focuses on coordination and identity. Shrey is also a technical advisor to product teams at Microsoft and its partners on the best ways to explore Web3 incubations. Shrey works under Glen Weyl and Yorke Rhodes and collaborates with key Web3 researchers like Vitalik Buterin. 
 
-Previously, I built products for [public health teams](https://flatten.ca) during the COVID-19 pandemic, did research in [machine learning for health](https://shreyj.com/previous), and helped build other [consumer](https://account.microsoft.com/family/about) products at Microsoft. A more detailed list of my experience can be found [here](https://shreyj.com/previous/).
+Shrey previously did research in machine learning for health at the Vector Institute of Technology and MIT CSAIL under the advisory of Dr. Marzyeh Ghassemi as well as worked with Microsoft's Health & AI team. Previously, Shrey has also launched [large-scale healthcare](https://flatten.ca) projects during the COVID-19 pandemic projects advised by Geoffrey Hinton that operated in Canada and Somalia. Shrey loves to travel, and has qualified for 3 age group world championship triathlons coached by Paula Findlay. 
 
-For fun, I am playing around with generative models to create digital art and music. I wish I could sing or draw, but I can't so I rely on machine learning to help me out. I used to be a triathlete qualifying for three World Championships for Team Canada Triathlon and love to run, swim, row, race really expensive road/TT bikes, and play pickup basketball.
-
-I am a slight coffee snob and recently started rating coffee shops [here](https://shreyj.com/coffee/). I graduate Engineering Science (machine learning major) from University of Toronto in April 2023. 
