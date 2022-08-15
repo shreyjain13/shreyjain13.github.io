@@ -5,10 +5,10 @@ title: "previous"
 
 # Work Experience
 
-- Microsoft PM 
-- Founder Flatten
+- Microsoft PM (2x , Health AI team + Modern Life Experienece)
+- Founder [Flatten](https://www.flatten.ca/)
 - Loblaws AI Intern
-- ML research
+- ML research at Vector Institute + MIT CSAIL under [Marzyeh Ghassemi](https://healthyml.org/)
 
 # Side Projects
 
@@ -62,7 +62,7 @@ Luo M., Newman S., Amat M., Charpignon M., Durale E., **Jain S.,** Kaufman A., K
 
 # Fellowships and Communities
 
-* Bored Ape Yacht Club (and many other NFT + DAO + DefIcommunities)
+* Kerenel & Interact 
 
 * University of Toronto Entrepreneurship Startup Incubator
 
