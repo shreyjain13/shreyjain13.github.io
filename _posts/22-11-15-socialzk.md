@@ -42,7 +42,7 @@ Disclaimer: I am not invovled (financially or as a collaborator) with any of the
 - [Sealcaster](https://blog.bigwhalelabs.com/applied-zk-part-3-or-how-we-made-anonymous-casts-on-farcaster-possible/): Anyonymous messaging on Farcaster. 
 - [Semaphore](https://semaphore.appliedzkp.org/): Semaphore is a protocol, designed to be a simple and generic privacy layer for Ethereum DApps. Using zero knowledge, Ethereum users can prove their membership of a group and send signals such as votes or endorsements without revealing their original identity.
 - [zkEmail](https://zkemail.xyz/): Trusless email verification on-chain. The [talk from DevCon](https://www.youtube.com/watch?v=sPCHiUT3TmA) is more informative. 
-- [zknullifier](https://github.com/zk-nullifier-sig/zk-nullifier-sig/): Creates anon identifiers via verifiably deterministic signatures on Ethereum, leading to unique pseudonymity. 
+- [zknullifier](https://github.com/zk-nullifier-sig/zk-nullifier-sig/): Creates anonymous identifiers via verifiably deterministic signatures on Ethereum, leading to unique pseudonymity. 
 
 I will keep this blog live, so DM me on Twitter if I missed your project and if you think it fits in one of the above buckets. 
 
