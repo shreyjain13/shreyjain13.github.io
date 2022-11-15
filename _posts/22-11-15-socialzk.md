@@ -11,6 +11,8 @@ There is still a small community of people who are specifically working on socia
 
 I recently tried to crowdsource the key projects working in this space [on Twitter](https://twitter.com/shreyjaineth/status/1590310990876659712?s=20&t=3CHekKSyDClGxAIsrChMQA) and was quite happy with the response that it felt approprite to try and aggregate the comments and DMs into a blog for people. 
 
+Some of the things I am interested in working on in this space include: signed messages, [designated verifier proofs](https://www.youtube.com/results?search_query=working+towards+a+plural+public+via+common+knowledge+and+designated+verifier+proofs), zero-knowledge machine learning for healthcare applicaitons, and how we can build [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)) in communication protocols. If this is also of interest to you, DM me on [Twitter](https://twitter.com/shreyjaineth). 
+
 I break down the projects in social applied zk into a three key categories: 
 
 - Identity 
