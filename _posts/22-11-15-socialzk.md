@@ -13,7 +13,7 @@ I recently tried to crowdsource the key projects working in this space [on Twitt
 
 Some of the things I am interested in working on in this space include: signed messages, [designated verifier proofs](https://www.youtube.com/results?search_query=working+towards+a+plural+public+via+common+knowledge+and+designated+verifier+proofs), zero-knowledge machine learning for healthcare applicaitons, and how we can build [common knowledge](https://en.wikipedia.org/wiki/Common_knowledge_(logic)) in communication protocols. If this is also of interest to you, DM me on [Twitter](https://twitter.com/shreyjaineth). 
 
-I break down the projects in social applied zk into a three key categories: 
+I break down the projects in social applied zk into three key categories: 
 
 - Identity 
 - Governance
