@@ -5,9 +5,9 @@ author: shrey
 category: coffee
 ---
 
-The work being done with zero-knowledge proofs (ZKPs) in the Ethereum ecosystem for downstream applications that are trying to improve privacy and scalability is quite promising. 
+The work being done with zero-knowledge proofs (ZKPs) in the Ethereum ecosystem for improving privacy and scalability is quite promising. 
 
-Attempting to map the entirety of the work being done Ethereum ecosystem with ZKPs is too large of a task to do in a way that felt productive. However, there is still a small community of people who are specifically working on social applications of ZKP technology on Ethereum that I wanted to try to highlight here. I define "social applications" as pretty much anything that is not oriented on scaling solutions or financial solutions (yes, transferring money is social, but I think you can get a flavor for what I am trying to do). 
+There is still a small community of people who are specifically working on social applications of ZKP technology on Ethereum that I wanted to try to highlight here. I define "social applications" as pretty much anything that is not oriented on scaling solutions or financial solutions (yes, transferring money is social, but I think you can get a flavor for what I am trying to do). 
 
 I recently tried to crowdsource the key projects working in this space [on Twitter](https://twitter.com/shreyjaineth/status/1590310990876659712?s=20&t=3CHekKSyDClGxAIsrChMQA) and was quite happy with the response that it felt approprite to try and aggregate the comments and DMs into a blog for people. 
 
