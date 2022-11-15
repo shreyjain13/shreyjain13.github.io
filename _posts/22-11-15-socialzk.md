@@ -38,7 +38,7 @@ Disclaimer: I am not invovled (financially or as a collaborator) with any of the
 
 
 ## Messaging 
-- [heyanon](https://twitter.com/heyanonxyz): heyanon is a way for people who are in cool groups or did cool stuff on Ethereum to broadcast messages anonymously on Twitter.
+- [heyanon](https://twitter.com/heyanonxyz): heyanon, by [personae labs](https://twitter.com/personae_labs) is a way for people who are in cool groups or did cool stuff on Ethereum to broadcast messages anonymously on Twitter.
 - [Sealcaster](https://blog.bigwhalelabs.com/applied-zk-part-3-or-how-we-made-anonymous-casts-on-farcaster-possible/): Anyonymous messaging on Farcaster. 
 - [Semaphore](https://semaphore.appliedzkp.org/): Semaphore is a protocol, designed to be a simple and generic privacy layer for Ethereum DApps. Using zero knowledge, Ethereum users can prove their membership of a group and send signals such as votes or endorsements without revealing their original identity.
 - [zkEmail](https://zkemail.xyz/): Trusless email verification on-chain. The [talk from DevCon](https://www.youtube.com/watch?v=sPCHiUT3TmA) is more informative. 
