@@ -19,28 +19,33 @@ I break down the projects in social applied zk into three key categories:
 - Governance
 - Messaging 
 
-Disclaimer: I am not invovled (financially or as a collaborator) with any of the projects below other than the zkSBT work which I was a co-author on.
+Disclaimer: I am not invovled (financially or as a collaborator) with any of the projects below other than the zkSBT work which I was a co-author on. Orderded alphabetically to not give preference to any specific project. 
 
 ## Identity
-
-- [Sismo](https://www.sismo.io/): Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation
-- [Worldcoin](https://worldcoin.org/): Worldcoin has built a [Privacy-Preserving Proof-of Personhood Protocol](https://worldcoin.org/the-worldcoin-protocol)
-- [zkSBTs](https://github.com/enricobottazzi/ZK-SBT): ZK SBTs allows for the creation of a composable network of trust. The token is always visible on chain making impossible for a user to hide the existance of an information when requested. The information contained in the claim is obscured using ZK in order to guarantee privacy. The only thing stored on chain is the hash of a signed message.
 - [Interep](https://interep.link/): Private reputation and identity system allowing services to verify that users belong to a certain group or meet certain reputation criteria without revealing their identities. Users can anonymously export reputation from platforms such as Twitter and Github.
 - [Relic Protocol](https://relicprotocol.com/#certificates): Relic Protocol uses ZKPs to prove facts about arbitrary historical Ethereum state, allowing users to prove their reputation based on their historical on-chain activity and minted as SBTs. 
+- [Sismo](https://www.sismo.io/): Sismo is a modular protocol issuing ZK Badges for reputation portability and aggregation
 - [Sealcred](https://sealcred.xyz/): SealCred allows you to experience the world pseudonymously with ZK badges. This means you can prove ownership of an NFT without it tracing back to you.
 - [Unirep](https://unirep.social/)): Unirep allows anonymous members of a group to give, receive, and prove reputation without revealing their identity. Applications or people can act as attesters and build their own reputation tokens on top of a shared Unirep contract.
+- [Worldcoin](https://worldcoin.org/): Worldcoin has built a [Privacy-Preserving Proof-of Personhood Protocol](https://worldcoin.org/the-worldcoin-protocol)
+- [zkSBTs](https://github.com/enricobottazzi/ZK-SBT): ZK SBTs allows for the creation of a composable network of trust. The token is always visible on chain making impossible for a user to hide the existance of an information when requested. The information contained in the claim is obscured using ZK in order to guarantee privacy. The only thing stored on chain is the hash of a signed message.
 
 ## Governance 
+
+- [Nouns DAO heyanoun](https://nouns.wtf/vote/150): A way for snapshotted nouners at a given proposal to pseudonymously submit messages about the proposal.
 - [MACI](https://github.com/privacy-scaling-explorations/maci): Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting.
 - [zkPIN](https://github.com/zk-pin/pin): Creating commitment pools to sign or endorse an idea in a trust minimized way. 
 
+
 ## Messaging 
 - [heyanon](https://twitter.com/heyanonxyz): heyanon is a way for people who are in cool groups or did cool stuff on Ethereum to broadcast messages anonymously on Twitter.
-- [zkEmail](https://zkemail.xyz/): Trusless email verification on-chain. The [talk from DevCon](https://www.youtube.com/watch?v=sPCHiUT3TmA) is more informative. 
-- [Semaphore](https://semaphore.appliedzkp.org/): Semaphore is a protocol, designed to be a simple and generic privacy layer for Ethereum DApps. Using zero knowledge, Ethereum users can prove their membership of a group and send signals such as votes or endorsements without revealing their original identity.
 - [Sealcaster](https://blog.bigwhalelabs.com/applied-zk-part-3-or-how-we-made-anonymous-casts-on-farcaster-possible/): Anyonymous messaging on Farcaster. 
+- [Semaphore](https://semaphore.appliedzkp.org/): Semaphore is a protocol, designed to be a simple and generic privacy layer for Ethereum DApps. Using zero knowledge, Ethereum users can prove their membership of a group and send signals such as votes or endorsements without revealing their original identity.
+- [zkEmail](https://zkemail.xyz/): Trusless email verification on-chain. The [talk from DevCon](https://www.youtube.com/watch?v=sPCHiUT3TmA) is more informative. 
+- [zknullifier](https://github.com/zk-nullifier-sig/zk-nullifier-sig/): Creates anon identifiers via verifiably deterministic signatures on Ethereum, leading to unique pseudonymity. 
 
 I will keep this blog live, so DM me on Twitter if I missed your project and if you think it fits in one of the above buckets. 
+
+Thanks Vivek B for feedback. 
 
 <script defer data-domain="shreyj.com" src="https://plausible.io/js/script.js"></script>
