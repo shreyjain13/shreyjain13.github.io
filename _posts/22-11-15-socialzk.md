@@ -19,7 +19,7 @@ I break down the projects in social applied zk into three key categories:
 - Governance
 - Messaging 
 
-Disclaimer: I am not invovled (financially or as a collaborator) with any of the projects below other than the zkSBT work which I was a co-author on. Orderded alphabetically to not give preference to any specific project. 
+Disclaimer: I am not invovled (financially or as a collaborator) with any of the projects below other than the zkSBT and designated verifier work which I was a co-author on. Orderded alphabetically to not give preference to any specific project. 
 
 ## Identity
 - [Interep](https://interep.link/): Private reputation and identity system allowing services to verify that users belong to a certain group or meet certain reputation criteria without revealing their identities. Users can anonymously export reputation from platforms such as Twitter and Github.
@@ -31,13 +31,13 @@ Disclaimer: I am not invovled (financially or as a collaborator) with any of the
 - [zkSBTs](https://github.com/enricobottazzi/ZK-SBT): ZK SBTs allows for the creation of a composable network of trust. The token is always visible on chain making impossible for a user to hide the existance of an information when requested. The information contained in the claim is obscured using ZK in order to guarantee privacy. The only thing stored on chain is the hash of a signed message.
 
 ## Governance 
-
 - [Nouns DAO heyanoun](https://nouns.wtf/vote/150): A way for snapshotted nouners at a given proposal to pseudonymously submit messages about the proposal.
 - [MACI](https://github.com/privacy-scaling-explorations/maci): Minimum Anti-Collusion Infrastructure (MACI) is a base layer for bribery-resistant, secure, and private digital voting.
 - [zkPIN](https://github.com/zk-pin/pin): Creating commitment pools to sign or endorse an idea in a trust minimized way. 
 
 
 ## Messaging 
+- [designated-verifier-proofs](https://github.com/enricobottazzi/designated-verifier-proof/blob/main/README.md): Cryptographic scheme that is compatible with Ethereum to ensure that only a designated verifier is persuaded of information being communicated to them and any 3rd party is unsure whether the designated verifier is telling the truth or not
 - [heyanon](https://twitter.com/heyanonxyz): heyanon, by [personae labs](https://twitter.com/personae_labs) is a way for people who are in cool groups or did cool stuff on Ethereum to broadcast messages anonymously on Twitter.
 - [Sealcaster](https://blog.bigwhalelabs.com/applied-zk-part-3-or-how-we-made-anonymous-casts-on-farcaster-possible/): Anyonymous messaging on Farcaster. 
 - [Semaphore](https://semaphore.appliedzkp.org/): Semaphore is a protocol, designed to be a simple and generic privacy layer for Ethereum DApps. Using zero knowledge, Ethereum users can prove their membership of a group and send signals such as votes or endorsements without revealing their original identity.
