@@ -19,7 +19,7 @@ I break down the projects in social applied zk into a three key categories:
 - Governance
 - Messaging 
 
-Disclaimer: I am not invovled (financially or as a collaborated) with any of the projects below other than the zkSBT work which I was a co-author on.
+Disclaimer: I am not invovled (financially or as a collaborator) with any of the projects below other than the zkSBT work which I was a co-author on.
 
 ## Identity
 
