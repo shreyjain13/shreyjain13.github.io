@@ -28,7 +28,9 @@ Disclaimer: I am not invovled (financially or as a collaborator) with any of the
 - [Sealcred](https://sealcred.xyz/): SealCred allows you to experience the world pseudonymously with ZK badges. This means you can prove ownership of an NFT without it tracing back to you.
 - [Unirep](https://unirep.social/)): Unirep allows anonymous members of a group to give, receive, and prove reputation without revealing their identity. Applications or people can act as attesters and build their own reputation tokens on top of a shared Unirep contract.
 - [Worldcoin](https://worldcoin.org/): Worldcoin has built a [Privacy-Preserving Proof-of Personhood Protocol](https://worldcoin.org/the-worldcoin-protocol)
+- [zkPortal](https://zkportal.io/):Bringing personal data to web3 in a trust-minimised and private way: preventing sybil attacks, enabling 1P1V and helping DeFi to stay compliant.
 - [zkSBTs](https://github.com/enricobottazzi/ZK-SBT): ZK SBTs allows for the creation of a composable network of trust. The token is always visible on chain making impossible for a user to hide the existance of an information when requested. The information contained in the claim is obscured using ZK in order to guarantee privacy. The only thing stored on chain is the hash of a signed message.
+
 
 ## Governance 
 - [Nouns DAO heyanoun](https://nouns.wtf/vote/150): A way for snapshotted nouners at a given proposal to pseudonymously submit messages about the proposal.
