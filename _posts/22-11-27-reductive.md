@@ -23,5 +23,6 @@ All in all, I don’t like being reductive. It feels like a “short-cut”, “
 
 No artificial or human intelligence will ever be able to model the world perfectly to understand what the best decision is. Some argue that this debate is a waste of time due to free will, but I think that in the short-term, even on 5 year time-horizons, being reductive can be incredibly powerful in making progress.
 
+Thank you Eric Liu for giving a read and some thoughts. 
 
 <script defer data-domain="shreyj.com" src="https://plausible.io/js/script.js"></script>
