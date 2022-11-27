@@ -18,9 +18,10 @@ The reductive argument can be seen as an analogy to a compass: it allows people 
 However, in the interim, I can take what I know, the assumptions I have, and build a reductive argument around why we should do the things we do. 
 
 Where I think being reductive becomes dangerous is when individuals are not open to adapting the assumptions their thesis is built on. Founders who are not open to being wrong, individuals who don’t listen to their friends with an open ear, or anyone who is strongly tied to opinion is a dangerous place to be in and where being reductive scares me.
+
 All in all, I don’t like being reductive. It feels like a “short-cut”, “incomplete”, “a sketch”, yet I think in many ways this is the best approach to getting things done, making progress, and building towards a better picture of the world than if you tried to do it from the beginning. 
 
-No one person, other than maybe our artificial intelligent systems one day, will be able to model the world to understand what is the best decision for them to work on (and some would argue this debate in itself is a waste of time due to free will), but I think that in the short-term, even on 5 year time-horizons can be incredibly powerful in making progress. 
+No artificial or human intelligence will ever be able to model the world perfectly to understand what the best decision is. Some argue that this debate is a waste of time due to free will, but I think that in the short-term, even on 5 year time-horizons, being reductive can be incredibly powerful in making progress.
 
 
 <script defer data-domain="shreyj.com" src="https://plausible.io/js/script.js"></script>
