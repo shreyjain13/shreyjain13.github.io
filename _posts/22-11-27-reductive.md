@@ -19,7 +19,7 @@ However, in the interim, I can take what I know, the assumptions I have, and bui
 
 Where I think being reductive becomes dangerous is when individuals are not open to adapting the assumptions their thesis is built on. Founders who are not open to being wrong, individuals who don’t listen to their friends with an open ear, or anyone who is strongly tied to opinion is a dangerous place to be in and where being reductive scares me.
 
-All in all, I don’t like being reductive. It feels like a “short-cut”, “incomplete”, “a sketch”, yet I think in many ways this is the best approach to getting things done, making progress, and building towards a better picture of the world than if you tried to do it from the beginning. 
+All in all, I don’t like being reductive. It feels like a “short-cut”, “incomplete”, “a sketch”, yet I think in many ways this is the best approach to getting things done, making progress, and building towards a better picture of the world than if you tried to do it from the beginning. In fact, maybe being reductive could be the best way to get completeness. 
 
 No artificial or human intelligence will ever be able to model the world perfectly to understand what the best decision is. Some argue that this debate is a waste of time due to free will, but I think that in the short-term, even on 5 year time-horizons, being reductive can be incredibly powerful in making progress.
 
