@@ -3,6 +3,10 @@ layout: page
 title: ""
 ---
 
+### My Research 
+
+My research aims to make progress in preserving information integrity. Right now, this takes form in questions like
+
 I work at Microsoft Research as an applied scientist on decentralized social technology. My research interests are at the intersection of applied cryptography, machine learning, and political economics. I am also a technical advisor to product teams at Microsoft as it related to my research. 
 
 I have occasional posts on this site, but write more frequently at [Glasswing](https://shreyjaineth.substack.com/). 
