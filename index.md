@@ -5,17 +5,15 @@ title: ""
 
 ### My Research 
 
-My research is concerned with safeguarding the authenticity and accuracy of information. 
-
-I am Applied Scientist at [Microsoft Research Special Projects](https://www.microsoft.com/en-us/research/group/microsoft-research-special-projects/) and Co-Founder of the [Plural Technology Collaboratory](https://www.microsoft.com/en-us/research/group/plural-technology-collaboratory/) at Microsoft Research. 
-
 The central question I am attempting to address is: How we can design systems to counteract information integrity risks from Large Foundation Models and promote democratic pluralism? 
 
-I have attempted at addressing this ambitious problem through answering different narrower questions. 
+I have attempted at addressing this ambitious problem through answering different narrow, yet also ambitious questions. 
 
 1. How can we build digital communication channels that are shielded from threats due to generative AI?
 
 2. How can we trust who we are communicating with online? 
+
+I am currently an Applied Scientist at [Microsoft Research Special Projects](https://www.microsoft.com/en-us/research/group/microsoft-research-special-projects/) and Co-Founder of the [Plural Technology Collaboratory](https://www.microsoft.com/en-us/research/group/plural-technology-collaboratory/) at Microsoft Research. 
 
 ### Relevent Contributions
 
