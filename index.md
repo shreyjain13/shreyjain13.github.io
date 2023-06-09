@@ -19,7 +19,7 @@ I have attempted at addressing this ambitious problem through answering differen
 
 ### Relevent Contributions
 
-1. [Plural Publics](https://gettingplurality.org/2023/03/18/plural-publics/). Published in the Harvard Safra Centre for Ethics. 
+1) [Plural Publics](https://gettingplurality.org/2023/03/18/plural-publics/). Published in the Harvard Safra Centre for Ethics. 
 
 In this paper, we defined a new framework for thinking about privacy in the age of LFMs. Instead of viewing data governance in the traditional “privacy” vs “publicity” lens, we offered a new approach that shields communication channels from threats to contextual integrity due to LFMs, while still allowing broad, global, instantaneous communication.
 
@@ -28,6 +28,8 @@ This is a research direction I have been leading at Microsoft Research which you
 2. [Designated Verifier Signatures](https://ethresear.ch/t/designated-verifier-signatures/15100)
 
 3. Identity Standards
+
+
 
 4. [zk Soulbound Tokens]
 
