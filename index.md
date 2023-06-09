@@ -11,6 +11,15 @@ My focus is researching contextual integrity technologies and policies.
 
 ### Contextual Integrity Contributions
 
+### Talks 
+
+### Previous Work 
+
+### Test for size
+
+## Test for size
+
+# Test for another size
 
 Test [previous](previous.md)
 
@@ -20,6 +29,4 @@ I have occasional posts on this site, but write more frequently at [Glasswing](h
 
 I previously did research in machine learning for health at the Vector Institute of Technology & MIT CSAIL under the advisory of [Marzyeh Ghassemi](https://healthyml.org/people/) as well as worked with Microsoft's Health & AI team. 
 
-Previously, I has also worked on building [COVID-19 prevalence prediction tools](https://flatten.ca) advised by [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/) that operated in Canada and Somalia. I love to travel (at 50 countries so far), and have qualified for 3 age group world championship triathlons coached by [Paula Findlay](https://www.instagram.com/paula_findlay/?hl=en). 
-
-<script defer data-domain="shreyj.com" src="https://plausible.io/js/script.js"></script>
+Previously, I has also worked on building [COVID-19 prevalence prediction tools](https://flatten.ca) advised by [Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/) that operated in Canada and Somalia. I love to travel (at 50 countries so far), and have qualified for 3 age group world championship triathlons coached by [Paula Findlay](https://www.instagram.com/paula_findlay/?hl=en).
