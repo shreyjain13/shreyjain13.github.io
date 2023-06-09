@@ -5,7 +5,7 @@ title: ""
 
 ### My Research 
 
-The central question I am attempting to address is: How we can design systems to counteract information integrity risks from Large Foundation Models and promote democratic pluralism? 
+The central question I am attempting to address is: How we can design systems to counteract information integrity risks from AI and promote democratic pluralism? 
 
 I have attempted at addressing this ambitious problem through answering different narrow, yet also ambitious questions. 
 
@@ -19,7 +19,7 @@ I am currently an Applied Scientist at [Microsoft Research Special Projects](htt
 
 1) [**Plural Publics**](https://gettingplurality.org/2023/03/18/plural-publics/). Published in the Harvard Safra Centre for Ethics. 
 
-In this paper, we defined a new framework for thinking about privacy in the age of LFMs. Instead of viewing data governance in the traditional “privacy” vs “publicity” lens, we offered a new approach that shields communication channels from threats to contextual integrity due to LFMs, while still allowing broad, global, instantaneous communication.
+In this paper, we defined a new framework for thinking about privacy in the age of AI. Instead of viewing data governance in the traditional “privacy” vs “publicity” lens, we offered a new approach that shields communication channels from threats to contextual integrity due to AI, while still allowing broad, global, instantaneous communication.
 
 This is a research direction I have been leading at Microsoft Research which you can read more about [here](https://www.microsoft.com/en-us/research/group/plural-technology-collaboratory/articles/plural-publics/). 
 
