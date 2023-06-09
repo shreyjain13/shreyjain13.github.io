@@ -61,13 +61,17 @@ Other writings, talks, and blogs that you may find interesting:
 
 My prior work has been centered in AI for healthcare applications. I worked with the [Healthcare and AI team](https://azure.microsoft.com/en-ca/products/health-data-services) at Microsoft on the FHIR standard, designing systems multi-modal prediction tasks with EHR, DICOM, and MedTech data. 
 
-I was also the Founder and Research Director of a core COVID-19 prediction tool, [Flatten](https://flatten.ca). I was advised by [Professor Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/) and [Nick Frosst](https://www.nickfrosst.com/) througout the duration of this project. We operated in Canada and Somalia primarily. 
+I was also the Founder and Research Director of a core COVID-19 prediction tool, [Flatten](https://flatten.ca). I was advised by [Professor Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/) and [Nick Frosst](https://www.nickfrosst.com/) througout the duration of this project. We raised money to hire 6 full-time employees, partnered with the UN, WHO, and municpal governments in Somalia as well as with various different municpal governments. 
 
 I previously did Health and AI research at the Vector Institute of Technology & MIT CSAIL under the advisory of [Marzyeh Ghassemi](https://healthyml.org/people/). I worked primarily on two separate areas of focus within AI for Health: differential privacy tradeoffs in healthcare with Vinith M Suriyakumar and understanding out-of-distribution performance of LLMs in the clinical context with Nathan Ng. 
+
+I also spent time working at the [MIT Critical Data Lab](https://criticaldata.mit.edu/) under the Advisory of [Leo Anthony Celi](https://www.hsph.harvard.edu/ecpe/faculty/leo-anthony-celi/). 
 
 Here are a series of papers, features and talks I have given in this space: 
 
 - [British Medical Journal, Innovations, MIT COVID-19 Datathon: data without boundaries](https://innovations.bmj.com/content/7/1/231.abstract).
+- [Digital healthcare tools for the world’s poorest people and places: A new framework for syndromic surveillance forged in the fight against COVID-19 in Somalia](https://preprints.jmir.org/preprint/29602)
+- [Flatten: COVID-19 Survey Data on Symptoms, Demographics and Mental Health in Canada](https://physionet.org/content/flatten-covid-survey/1.0/)
 - [CBC Interview with Rosemary Barton, Flatten](https://www.cbc.ca/player/play/1751102019750?fbclid=IwAR0buXKWWqqN2be4HPQS9wl2gJaevAOY5PVtzET1S6arDLUJj1U4fadik5g)
 - [Toronto Star Article on Flatten](https://www.thestar.com/news/gta/2020/06/10/mississauga-student-helping-to-develop-crowdsourcing-covid-19-website-for-somalia.html)
 - [Symptom Tracking Locally, National Post Article](https://nationalpost.com/news/world/how-bad-is-covid-19-in-your-area-university-students-launch-heat-map-to-track-virus-across-canada)
@@ -77,8 +81,19 @@ Here are a series of papers, features and talks I have given in this space:
 - [UofT News, Engineering students create free online map to help track the spread of COVID-19](https://news.engineering.utoronto.ca/flatten-engineering-students-create-free-online-map-to-help-track-the-spread-of-covid-19/)
 - [REPLAY: It’s March 11th. Let’s try to fight Covid differently. How would you do it?](https://jps.library.utoronto.ca/index.php/juls/article/view/36205)
 
-I graduated from the University of Toronto, studying Engineering Science with a major in machine intelligence. My Thesis Advisor was [Professor Stark Draper](https://www.ece.utoronto.ca/people/draper-s/). 
+I graduated from the University of Toronto, studying [Engineering Science](https://engsci.utoronto.ca/program/what-is-engsci/) with a major in machine intelligence. My thesis advisor was [Professor Stark Draper](https://www.ece.utoronto.ca/people/draper-s/). 
+
+Some of the key awards I recieved in college include: 
+
+- [The Duke of Edinburgh, Gold Award](https://www.dukeofed.org/). Award given by Prince Edward, Duke of Edinburgh at the Fairmont, Royal York, Toronto
+- Engineering Science Centennial Thesis Award Nominee
+- Engineers for the World Award 
+- Faculty of Applied Science & Engineering Leadership Award (2x)
+- [Lo Family Social Ventures Award](https://entrepreneurs.utoronto.ca/2020-lo-family-social-venture-fund-award-winners/)
 
 ### Fun 
 
-I love to travel (at 50 countries so far), and have qualified for 3 age group world championship triathlons coached by [Paula Findlay](https://www.instagram.com/paula_findlay/?hl=en).
+I love most **sports**, but I spend most of my time between pickup basketball, lifting and triathlons. I have qualified for 3 age group world championship triathlons coached by [Paula Findlay](https://www.instagram.com/paula_findlay/?hl=en) and would love to race at Kona, in the Ironman world championships one day. I used to row and swim competitively. 
+
+I love unique food. I am vegetarian, and have been for my whole life, but if you have food recs in your hometown, send it to me. I especailly love trying new foods with people who are seriously passionate about trying new foods as well. 
+
