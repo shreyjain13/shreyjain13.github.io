@@ -25,7 +25,7 @@ This is a research direction I have been leading at Microsoft Research which you
 
 2) [**Designated Verifier Signatures**](https://ethresear.ch/t/designated-verifier-signatures/15100). 
 
-In this project, I co-designed a way to bring an older cryptographic primitive to be accessible for sending **deniable** messages. On the one hand, this primtive can be incredibly useful for protecting your messages from being trained on or taken action upon (protecting secrets), and on the other hand is useful for AI labs to have confidence the message was written by the sender (which may or may not be human). 
+In this project, I co-designed a way to have designated verifier signatures to be accessible today to send **deniable** messages. On the one hand, this primtive can be incredibly useful for protecting your messages from being trained on or taken action upon (protecting secrets), and on the other hand is useful for AI labs to have confidence the message was written by the sender (which may or may not be human). 
 
 3) **Identity Standards** 
 
@@ -37,7 +37,7 @@ To extend on this work, I extended existing work being done with anonymous crede
 
 5) **Blog**: I post occasionally on my blog [Glasswing](https://shreyjaineth.substack.com/). Some posts that are particularly relevent is my comments regarding the [sociology of secrecy](https://shreyjaineth.substack.com/p/sociology-of-secrecy-and-secret-societies) and defining a [new turing test](https://shreyjaineth.substack.com/p/we-need-a-new-turing-test). 
 
-I have given numerous talks and been on many podcasts relating to this research. The one's that adress the core of my research you can find here:
+I have given numerous talks and been on many podcasts relating to this research. Here are a few where I address core parts of my research:
 
 - [EDCON Montenegro, 2023 Talk](https://twitter.com/EDCON2024/status/1660668307744210944?s=20), full recording to be added shortly
 - [Plurality Network Conference, Berkeley, California, 2023](https://www.youtube.com/live/RyObAHv777E?feature=share&t=8222)
@@ -59,9 +59,9 @@ Other writings, talks, and blogs that you may find interesting:
 
 ### Previous Work 
 
-My prior work has been centered in AI for healthcare applications. I worked with the [Healthcare and AI team](https://azure.microsoft.com/en-ca/products/health-data-services) at Microsoft on the FHIR standard, designing systems multi-modal prediction tasks with EHR, DICOM, and MedTech data. 
+My prior work has been centered in AI for healthcare applications. I worked with the [Healthcare and AI team](https://azure.microsoft.com/en-ca/products/health-data-services) at Microsoft on the FHIR standard. I also worked various different kinds multi-modal prediction tasks with EHR, DICOM, and MedTech data. 
 
-I was also the Founder and Research Director of a core COVID-19 prediction tool, [Flatten](https://flatten.ca). I was advised by [Professor Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/) and [Nick Frosst](https://www.nickfrosst.com/) througout the duration of this project. We raised money to hire 6 full-time employees, partnered with the UN, WHO, and municpal governments in Somalia as well as with various different municpal governments. 
+I was the Founder and Research Director of a core COVID-19 prediction tool, [Flatten](https://flatten.ca). I was advised by [Professor Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/) and [Nick Frosst](https://www.nickfrosst.com/) througout the duration of this project. We raised money to hire 6 full-time employees, partnered with the UN, WHO, and municpal governments in Somalia. We also worked with various different municpal governments in Canada. 
 
 I previously did Health and AI research at the Vector Institute of Technology & MIT CSAIL under the advisory of [Marzyeh Ghassemi](https://healthyml.org/people/). I worked primarily on two separate areas of focus within AI for Health: differential privacy tradeoffs in healthcare with Vinith M Suriyakumar and understanding out-of-distribution performance of LLMs in the clinical context with Nathan Ng. 
 
@@ -93,7 +93,7 @@ Some of the key awards I recieved in college include:
 
 ### Fun 
 
-I love most **sports**, but I spend most of my time between pickup basketball, lifting and triathlons. I have qualified for 3 age group world championship triathlons coached by [Paula Findlay](https://www.instagram.com/paula_findlay/?hl=en) and would love to race at Kona, in the Ironman world championships one day. I used to row and swim competitively. 
+I love most sports, but I spend most of my time between pickup basketball, lifting and triathlons. I have qualified for 3 age group world championship triathlons coached by [Paula Findlay](https://www.instagram.com/paula_findlay/?hl=en). Prior to triathlon, I rowed and raced the double as well as swam comeptitively in the 50, 100, and 200m breastroke. 
 
-I love unique food. I am vegetarian, and have been for my whole life, but if you have food recs in your hometown, send it to me. I especailly love trying new foods with people who are seriously passionate about trying new foods as well. 
+I also love trying new foods with people who are seriously passionate about trying new foods. 
 
