@@ -1,0 +1,22 @@
+{
+    "name": "Shrey Jain",
+    "url": "https://raw.githubusercontent.com/shreyjain13/void/main/xpoc",
+    "content": [
+        {
+            "idx": 1,
+            "title": "Flatten Somalia Presentation", 
+            "url": "https://www.youtube.com/watch?v=Fzjwq0T87YU&t=240s&ab_channel=ShreyJain",
+            "platform": "youtube",
+            "puid": "Fzjwq0T87YU",
+            "account": "@shreyjain9370"
+        },
+        {
+            "idx": 2,
+            "title": "Your Tweet Title",
+            "url": "https://twitter.com/xpocvalidator/status/1680932616264982529",
+            "platform": "twitter",
+            "puid": "1680932616264982529",
+            "account": "@xpocvalidator"
+        }
+    ]
+}
