@@ -95,6 +95,6 @@ Some of the key awards I recieved in college include:
 
 I love most sports, but I spend most of my time between pickup basketball, lifting and triathlons. I have qualified for 3 age group world championship triathlons coached by [Paula Findlay](https://www.instagram.com/paula_findlay/?hl=en). Prior to triathlon, I rowed and raced the double as well as swam comeptitively in the 50, 100, and 200m breastroke. 
 
-I also love trying new foods with people who are seriously passionate about trying new foods. 
+I also love trying new foods with people who are seriously passionate about trying new foods. Here is a list of my [top indian restaurants](/indianfood.md)
 
 Here is my [XPOC Manifest](./xpoc-manifest.json). 
