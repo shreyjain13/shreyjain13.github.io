@@ -17,14 +17,14 @@
             "platform": "twitter",
             "puid": "1680932616264982529",
             "account": "@xpocvalidator"
-        }, 
+        },
         {
-            "idx": 3,
-            "title": "XPOCSample",
+            "idx": 1,
+            "title": "XPOCSample - YouTube",
             "url": "https://www.youtube.com/watch?v=naYowwgZnAw&ab_channel=ShreyJain",
             "platform": "youtube",
             "puid": "naYowwgZnAw",
-            "account": "@shreyjain9370"
+            "account": ""
         }
     ]
 }
