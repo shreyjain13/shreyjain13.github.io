@@ -5,11 +5,7 @@ author: shrey
 category: coffee
 ---
 
-After visting the UK properly, I can finally make this post. 
-
-I have now been to ~ 55 countries and in each, usually hit at least one Indian restaurant. I have made a list of my top 10 Indian restaurants aroudn the world. 
-
-Some disclaimers are that I typically only eat North-Indian food and I am vegetarian. 
+After a recent trip to the UK, I can finally share my top 10 Indian restaurants worldwide, based on my visits to ~55 countries. Please note, my choices favor North-Indian cuisine and are entirely vegetarian.
 
 Here are the top ten: 
 
