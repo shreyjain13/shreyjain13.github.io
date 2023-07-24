@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "XPOC"
+title: "writings"
 ---
 
 {% if site.show_excerpts %}
