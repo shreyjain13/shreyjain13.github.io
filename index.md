@@ -97,4 +97,4 @@ I love most sports, but I spend most of my time between pickup basketball, lifti
 
 I also love trying new foods with people who are seriously passionate about trying new foods. Here is a list of my [top indian restaurants](/indianfood.md)
 
-Here is my [XPOC Manifest](/.well-known/xpoc-manifest.json). 
+Here is my [XPOC Manifest](./xpoc-manifest.json). 
