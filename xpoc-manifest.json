@@ -1,9 +1,20 @@
 {
     "name": "Shrey Jain",
     "url": "https://shreyj.com",
+    "accounts": [
+        {
+            "platform": "youtube",
+            "url": "https://www.youtube.com/channel/UCX6OQ3DkcsbYNE6H8uQQuVA",
+            "account": "Shrey Jain"
+        },
+        {
+            "platform": "twitter",
+            "url": "https://twitter.com/shreyjaineth",
+            "account": "@shreyjaineth"
+        }
+    ],
     "content": [
         {
-            "idx": 1,
             "title": "Flatten Somalia Presentation", 
             "url": "https://www.youtube.com/watch?v=Fzjwq0T87YU&t=240s&ab_channel=ShreyJain",
             "platform": "youtube",
@@ -11,7 +22,6 @@
             "account": "@shreyjain9370"
         },
         {
-            "idx": 2,
             "title": "Your Tweet Title",
             "url": "https://twitter.com/xpocvalidator/status/1680932616264982529",
             "platform": "twitter",
@@ -19,7 +29,6 @@
             "account": "@xpocvalidator"
         },
         {
-            "idx": 3,
             "title": "XPOCSample - YouTube",
             "url": "https://www.youtube.com/watch?v=naYowwgZnAw&ab_channel=ShreyJain",
             "platform": "youtube",
