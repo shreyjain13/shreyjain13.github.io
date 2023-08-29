@@ -1,6 +1,7 @@
 {
     "name": "Shrey Jain",
     "baseurl": "https://shreyj.com",
+    "version": "0.1.1",
     "accounts": [
         {
             "platform": "youtube",
