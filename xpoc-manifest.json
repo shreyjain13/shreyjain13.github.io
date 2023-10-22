@@ -13,28 +13,5 @@
             "url": "https://twitter.com/shreyjaineth",
             "account": "@shreyjaineth"
         }
-    ],
-    "content": [
-        {
-            "title": "Flatten Somalia Presentation", 
-            "url": "https://www.youtube.com/watch?v=Fzjwq0T87YU&t=240s&ab_channel=ShreyJain",
-            "platform": "youtube",
-            "puid": "Fzjwq0T87YU",
-            "account": "@shreyjain9370"
-        },
-        {
-            "title": "Your Tweet Title",
-            "url": "https://twitter.com/xpocvalidator/status/1680932616264982529",
-            "platform": "twitter",
-            "puid": "1680932616264982529",
-            "account": "@xpocvalidator"
-        },
-        {
-            "title": "XPOCSample - YouTube",
-            "url": "https://www.youtube.com/watch?v=naYowwgZnAw&ab_channel=ShreyJain",
-            "platform": "youtube",
-            "puid": "naYowwgZnAw",
-            "account": "@shreyjain9370"
-        }
     ]
 }
