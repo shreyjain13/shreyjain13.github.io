@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-I currently work at Microsoft. I spend most of time working on projects related to privacy and security with our Special Projects Research Team as well as with our Health and Life Sciences team. 
+I currently work at Microsoft. I spend most of time working on projects related to privacy and security with our Special Projects research team at Microsoft Research as well as with our Health and Life Sciences team. 
 
 The broad motivations of my work is represented in a recent paper I wrote with OpenAI titled "[Contextual Confidence and Generative AI](https://arxiv.org/abs/2311.01193)". 
 
