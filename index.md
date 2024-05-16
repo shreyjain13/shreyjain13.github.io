@@ -11,8 +11,10 @@ If this works seems interesting to you, here is my [Microsoft Research profile](
 
 I am also a Research Affiliate at the [Harvard Democracy Renovation Lab](https://gettingplurality.org/people/) and [Gov4Git Foundation](https://gov4git.org/), as well as an [Emergent Ventures](https://www.mercatus.org/emergent-ventures) award winner.  
 
-Previously, I co-founded the [PTC lab at Microsoft Research](https://www.microsoft.com/en-us/research/group/plural-technology-collaboratory/), did clinical machine learning research under Marzyeh Ghassemi and Leo Anthony Celi at MIT CSAIL,  Vector Institute, and MIT Institute for Medical Engineering Sciences. I also was the [Founder of Flatten](https://flatten.ca/), a COVID-19 symptom surveillance non-profit, advised by Nick Frosst and Geoffrey Hinton. I graduated from the University of Toronto with a degree in Engineering Science and major in machine learning (thesis advisor Stark Draper). 
+Previously, I co-founded the [PTC lab at Microsoft Research](https://www.microsoft.com/en-us/research/group/plural-technology-collaboratory/), did clinical machine learning research under Marzyeh Ghassemi and Leo Anthony Celi at MIT CSAIL,  Vector Institute, and MIT Institute for Medical Engineering Sciences. I also was the [Founder of Flatten](https://flatten.ca/), a COVID-19 symptom surveillance non-profit, advised by Nick Frosst and Geoffrey Hinton. 
 
-I am based in San Fransisco. 
+I graduated from the University of Toronto with a degree in Engineering Science and major in machine learning (thesis advisor Stark Draper). 
+
+I am currently based in San Fransisco. 
 
 I love triathlon and have so far qualified for 3 age group world championships. If you ever want to ride, bike, or swim, reach out! I also play basketball. 
