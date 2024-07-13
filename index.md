@@ -3,13 +3,11 @@ layout: page
 title: ""
 ---
 
-I am currently a Product Manager at Microsoft working on Medical Foundation Models. 
+I am currently a Product Manager at Microsoft working on Medical Foundation Models (focus on medical imaging and presicion oncology). 
 
 Previously, I was an Applied Scientist at Microsoft Research Special Projects working on privacy and security research. The broad motivations of my research are represented in paper I wrote in collaboration with OpenAI titled "[Contextual Confidence and Generative AI](https://arxiv.org/abs/2311.01193)". 
 
 If my work on privacy or security seems interesting to you, here is my [Microsoft Research profile](https://www.microsoft.com/en-us/research/people/shreyjain/), [LinkedIn](https://www.linkedin.com/in/shrey-j-9869b213a/), and [Twitter](https://twitter.com/shreyjaineth) where I post more about work. 
-
-Today, I am spending most of my time buidling AI systems to improve medicine (medical imaging and precision oncology). 
 
 Other: 
 
