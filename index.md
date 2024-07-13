@@ -9,7 +9,7 @@ Previously, I was an Applied Scientist at Microsoft Research Special Projects wo
 
 If my work on privacy or security seems interesting to you, here is my [Microsoft Research profile](https://www.microsoft.com/en-us/research/people/shreyjain/), [LinkedIn](https://www.linkedin.com/in/shrey-j-9869b213a/), and [Twitter](https://twitter.com/shreyjaineth) where I post more about work. 
 
-Today, I am spending most of my time thinking about the impact AI is going to impact medicine (medical imaging and precision oncology specifically). 
+Today, I am spending most of my time buidling AI systems to improve medicine (medical imaging and precision oncology). 
 
 Other: 
 
