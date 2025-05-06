@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-I am currently a Product Manager at Microsoft working on Medical Foundation Models and on our Healthcare Data Platform.
+I am currently the Applied AI Product Lead for the Health and Life Sciences team at Microsoft. 
 
 Previously, I was an Applied Scientist at Microsoft Research Special Projects working on privacy and security research. The broad motivations of my research are represented in paper I wrote in collaboration with OpenAI titled "[Contextual Confidence and Generative AI](https://arxiv.org/abs/2311.01193)". 
 
